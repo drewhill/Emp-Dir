@@ -1,4 +1,1 @@
-Emp-Dir
-=======
-
-Employee Directory Program
+"# Need to include the img folder in the working directory"
